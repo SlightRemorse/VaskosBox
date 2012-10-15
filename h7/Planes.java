@@ -41,22 +41,34 @@ public class Planes {
 	}
 	
 	public static void main(String args[]) {
-		Display();
 		while(counter<162) {
 			int rand=new Random().nextInt(3)+1;
 			if(counter+rand<=162) {
+				if(found==true) {
+					System.out.println("===Results===");
+					Display();
+					System.out.println();
+				}
 				try {
 					Thread.sleep(1000);
 				} catch(InterruptedException ex) {
 					Thread.currentThread().interrupt();
 				}
-				Display();
+				for(int clear=0; clear<30; clear++) System.out.println();
 				System.out.println("Looking for a spot for " + rand + " passangers.");
 				CheckAndAdd(rand);
 				System.out.println("Number of passangers now: " + counter);
-				if(found==false) System.out.println("Spot not found.");
+				if(found==false) {
+					System.out.println("No spots found.\n");
+					try {
+						Thread.sleep(250);
+					} catch(InterruptedException ex) {
+						Thread.currentThread().interrupt();
+					}
+				}
 			}
 		}
+		System.out.println("===Plane is full===");
 		Display();
 	}
 }
