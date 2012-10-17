@@ -1,0 +1,1 @@
+This file is for testing if this laptop is properly connected to the github server and repository.
