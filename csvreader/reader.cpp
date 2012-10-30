@@ -12,15 +12,15 @@ class student {
 	string classnum;
 	string class_;
 	string email;
-	vector <string> title; // cut vryzka
+	//movedata
+	vector <string> title;
 	vector <string> deadline;
 	vector <string> finishdate;
 	vector <string> link;
 }temp;
 
 vector <student> liststudent;
-int count;
-
+int count;		
 
 string decase(string str) {
 	for(int i=0; i<str.size(); i++) {
@@ -41,6 +41,7 @@ void check() {
 		if((simi[0]==1) && (simi[1]==1) && (simi[2]==1) && (simi[3]==1)) { //if full match
 			if(count>liststudent[i].link.size()) {
 				liststudent[i].title.push_back("TITLE");
+				liststudent[i].deadline.push_back("DEADLINE");
 				liststudent[i].finishdate.push_back(temp.finishdate[0]);
 				liststudent[i].link.push_back(temp.link[0]);
 			}
@@ -67,6 +68,7 @@ void check() {
 					liststudent[i].title.push_back("TITLE");
 					liststudent[i].finishdate.push_back(temp.finishdate[0]);
 					liststudent[i].link.push_back(temp.link[0]);
+					liststudent[i].deadline.push_back("DEADLINE");
 				}
 				else {
 					liststudent[i].finishdate[count-1]=temp.finishdate[0];
@@ -78,6 +80,7 @@ void check() {
 				if((liststudent[i].classnum=="-") && (temp.classnum!="-")) liststudent[i].classnum=temp.classnum;
 				if(count>liststudent[i].link.size()) {
 					liststudent[i].title.push_back("TITLE");
+					liststudent[i].deadline.push_back("DEADLINE");
 					liststudent[i].finishdate.push_back(temp.finishdate[0]);
 					liststudent[i].link.push_back(temp.link[0]);
 				}
@@ -117,7 +120,7 @@ void check() {
 	for(int i=1; i<count; i++) {
 		liststudent[liststudent.size()-1].title.insert(liststudent[liststudent.size()-1].title.begin(),"TITLE");
 		liststudent[liststudent.size()-1].deadline.insert(liststudent[liststudent.size()-1].deadline.begin(),"няма");
-		liststudent[liststudent.size()-1].finishdate.insert(liststudent[liststudent.size()-1].finishdate.begin(),"няма");
+		liststudent[liststudent.size()-1].finishdate.insert(liststudent[liststudent.size()-1].finishdate.begin(),"непредадено");
 		liststudent[liststudent.size()-1].link.insert(liststudent[liststudent.size()-1].link.begin(),"няма");
 	}
 }
@@ -182,6 +185,7 @@ int main() {
 		for(int i=0; i<liststudent.size(); i++) {
 			while(liststudent[i].link.size()<count) {
 				liststudent[i].title.push_back("TITLE");
+				liststudent[i].deadline.push_back("непредадено");
 				liststudent[i].finishdate.push_back("няма");
 				liststudent[i].link.push_back("няма");
 			}
@@ -192,13 +196,17 @@ int main() {
 	myFile.open("finish.csv");
 	string test="goshko";
 	for(int i=0; i<liststudent.size(); i++) {
-		myFile << i << "." << liststudent[i].name << " " << liststudent[i].email << " " << liststudent[i].classnum << " " << liststudent[i].class_ << "\n";
+		myFile << liststudent[i].name << "," << liststudent[i].email << "," << liststudent[i].classnum << " номер,11 " << liststudent[i].class_ << "\n";
+		myFile << "Тема" << "," << "Срок" << "," << "Предадено" << "," << "Връзка" << "\n"; 
+	for(int a=0; a<liststudent[i].link.size(); a++) {
+		myFile << liststudent[i].title[a] << "," << liststudent[i].deadline[a] << "," << liststudent[i].finishdate[a] << "," << liststudent[i].link[a] << "\n";
+	}
 	}
 	myFile.close();
 	for(int i=0; i<liststudent.size(); i++) {
 		cout << i << "." << liststudent[i].name << "::" << liststudent[i].email << "::" << liststudent[i].classnum << "::" << liststudent[i].class_ << endl;
 		for(int a=0; a<liststudent[i].link.size(); a++) {
-		//	cout << a << ". " << liststudent[i].link[a] << endl;
+			cout << a << ". " << liststudent[i].title[a] << " " << liststudent[i].deadline[a] << " " << liststudent[i].finishdate[a] << " " << liststudent[i].link[a] << endl;
 		}
 	}
 	cout << liststudent[44].name << endl;

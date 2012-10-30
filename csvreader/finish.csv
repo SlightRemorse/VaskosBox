@@ -1,63 +1,693 @@
-0.Виктор Георгиев Стоянов v_g_stojanov@abv.bg 8 Б
-1.Николай Николаев Иванов wwwnik@abv.bg 23 Б
-2.Христо Георгиев Георгиев hristogg1@abv.bg 29 Б
-3.Василен Асенов Любомиров asentsvetanov@mail.bg ---------------- Б
-4.Мартин Евелинов Симеонов simeonovelsys@gmail.com 21 Б
-5.Ива Йорданова Добрева iva95dobreva@gmail.com 17 Б
-6.Добромир Огнянов Иванов syliconsynapse@gmail.com 14 Б
-7.Александър Божидаров Димитров xavortm@gmail.com 2 Б
-8.Едуард Федев Калфов edward.kalfov@abv.bg 15 Б
-9.Тодор Руменов Маноилов tmanoilov@abv.bg 28 Б
-10.Йоан Методиев Марков bubobuboster@gmail.com 19 Б
-11.Георги Евгениев Кръчков georgi_kratchkov@abv.bg 9 Б
-12.Антон Дедиков unpredictable1819@abv.bg 4 Б
-13.Димитър Антонов Борисов dimitar.borisov@mail.bg 13 Б
-14.Иван Венциславов Пейчинов ipeychinov@gmail.com 17 Б
-15.Александър Атанасов Осенов sonico@abv.bg 1 Б
-16.Михаил Михайлов Здравков mihail0zdravkov@gmail.com 22 Б
-17.Благовест Николаев Божинов warcraft2005@abv.bg 5 Б
-18.Георги Миленов Цанев gbdrock@abv.bg 9 Б
-19.Божидар Ивов Гьорев b.giorev@gmail.com 5 Б
-20.Красимир Светославов Стойков krasimir.stojkov@gmail.com 20 Б
-21.Даниела Яворова Алексова daniela.aleksova95@abv.bg 12 Б
-22.Анна-Мария Верева матейна any333@abv.bg 3 Б
-23.Денислав Райчев Първанов denislav_parvanov_1995@abv.bg 13 Б
-24.Диана Марио Бояджиева didsito13@abv.bg 11 А
-25.Атанас Атанасов nasko_alekov@abv.bg 3 А
-26.Nikolai Stanev nikolaystanev@abv.bg 20 А
-27.Стефан Юлиянов Петров spetrov123@yahoo.com 27 А
-28.Пламен Христов Никифоров plamenxr@mail.bg 25 А
-29.Мартин Красимиров Кирилов marti_kirilov@abv.bg 17 A
-30.Божидар Станчев flashstealer@gmail.com 4 A
-31.Христо Ивайлов Михайлов reportera7@abv.bg 28 A
-32.Кристин Христова Найденова cnaydenova@gmail.com 14 А
-33.Денис Евгениев Николов denisnikolow@gmail.com 11 А
-34.Иван Мирославов Манев iwanmanew@yahoo.com 13 А
-35.Никола Божинов nikola_bojinovtues@abv.bg 19 A
-36.Петър Станев petarstanevtues@gmail.com 24 А
-37.Иван-Васил Тодоров Генев ivanvasilgenev@abv.bg 13 A
-38.Антон Митков tonimitkov2s@gmail.com 2 А
-39.Даниел Красимиров Цоков daniel_tskov@abv.bg 9 А
-40.Владимир Ангелов Ангелов triedgeai@gmail.com 7 А
-41.Мартин Занов martinzanov@abv.bg 16 А
-42.Любослав Димитров Йорданов liuboslav_jordanov@mail.bg 15 А
-43.Васил Ясенов Божурски slightremorse@gmail.com 6 А
-44.Николай Божков nikolaybojkov95@gmail.com 23 А
-45.Светлин Илиев Владов svetlin_vladov@abv.bg 26 А
-46.Михаил Цанов mihailcanov@abv.bg 18 A
-47.Георги Динков Нейчев georgi__neichev@abv.bg 8 А
-48.Николай Тихомиров Коцев nikolay_kotzev@abv.bg 22 А
-49.Borislav Jordanov jordanov.borislav@gmail.com 5 А
-50.Андон Мицов donimicov@yahoo.com 1 A
-51.Петър Ников nikog.elsys@gmail.com 24 Б
-52.Радослав Михаилов Михаилов radoisan@gmail.com 26 Б
-53.Даниел Николаев Георгиев daniel.georgiev95@gmail.com 10 Б
-54.Христо Георгиев Георгиев hritogg1@abv.bg 29 Б
-55.Петър Георгиев Нетовски petarnet@abv.bg 25 Б
-56.Николай Станев nickolaystanev@abv.bg 20 А
-57.Даниел Красимиров Цоков daniel_tskov@abv.bg - А
-58.Николай Емилов Стоянов nikolai_stoaynov@abv.bg - A
-59.Николай Христов Божков nikolatbojkov95@gmail.com 23 А
-60.Филип Мостафа  filip_mos@abv.bg 28 А
-61.Петър Бориславов Ников nikov.elsys@gmail.com 24 Б
-62.Денислав Първанов denislav_raichev_1995@abv.bg 13 Б
+Виктор Георгиев Стоянов,v_g_stojanov@abv.bg,8 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/2/2012,https://github.com/powerworr/Entry_task_11_class
+TITLE,DEADLINE,10/2/2012,https://github.com/powerworr/Python/blob/master/read_csv.py
+TITLE,DEADLINE,10/4/2012,https://github.com/powerworr/Ruby/blob/master/read_csv.rb
+TITLE,DEADLINE,10/8/2012,https://github.com/powerworr/TP/blob/master/repo.png
+TITLE,DEADLINE,10/10/2012,https://github.com/powerworr/TP/blob/master/C5/HomeWork1.java
+TITLE,DEADLINE,10/15/2012,https://github.com/powerworr/TP/blob/master/H6/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/powerworr/TP/blob/master/H7/Count.java
+TITLE,DEADLINE,10/22/2012,http://powerworr.wordpress.com/2012/10/19/how-to-use-github-ubuntu/
+Николай Николаев Иванов,wwwnik@abv.bg,23 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,15
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/anakincho/vhodno2
+TITLE,DEADLINE,10/3/2012,https://bitbucket.org/anakincho/vhodno2
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/anakincho/vhodno2/src/9921a6f24810/csv_homework.rb
+TITLE,DEADLINE,10/8/2012,https://bitbucket.org/anakincho/vhodno2/src/9b349038a473/screen.png
+TITLE,DEADLINE,10/10/2012,https://bitbucket.org/anakincho/vhodno2/src/4641c40f21ec/h5?at=default
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/anakincho/vhodno2/src/fe8d5ba4b925/h6/AirPlane.java?at=default
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/anakincho/vhodno2/src/03e54ba9bf186b020acbeed4193c91f4c86b67a4/h7/class.rb?at=default
+TITLE,DEADLINE,10/22/2012,http://www.4shared.com/get/dCUF7pTy/tutorial.html
+Христо Георгиев Георгиев,hristogg1@abv.bg,29 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/10/2012,https://github.com/hristogg1/TP/blob/master/H5/JavaProperties.java
+TITLE,DEADLINE,10/15/2012,https://github.com/hristogg1/TP/blob/master/H6/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/hristogg1/TP/blob/master/H7/Counting.rb
+TITLE,DEADLINE,10/22/2012,http://hristomix.wordpress.com/
+Василен Асенов Любомиров,asentsvetanov@mail.bg,---------------- номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,10
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/vlubomirov/homework6
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+Мартин Евелинов Симеонов,simeonovelsys@gmail.com,21 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,16
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/msimeonov/homeworks
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/msimeonov/homeworks/changeset/2ac452921947ca04af8bb5d61d4da3527373aa41
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/msimeonov/homeworks/src/471cc36275c9/csv_work.rb
+TITLE,DEADLINE,10/8/2012,https://bitbucket.org/msimeonov/homeworks/src/71b81598d0e6/h4/1.png#
+TITLE,DEADLINE,10/10/2012,https://bitbucket.org/msimeonov/homeworks/src/01134f6c59ce/h5/JavaProperties.java?at=default
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/msimeonov/homeworks/src/39fb1bb4d27d/h6/AirPlane.java?at=default
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/msimeonov/homeworks/src/d69c03d68d430e1d6e5f53dbffe7852ada00a514/h7/1.rb?at=default
+TITLE,DEADLINE,10/22/2012,https://simeonovelsys.wordpress.com/2012/10/22/version-control-system-tutorial/
+Ива Йорданова Добрева,iva95dobreva@gmail.com,17 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,15
+TITLE,DEADLINE,10/2/2012,https://github.com/IvaDobreva/TP.git
+TITLE,DEADLINE,10/3/2012,https://github.com/IvaDobreva/TP/blob/master/Ruby/csv_homework_ver2.rb
+TITLE,DEADLINE,10/4/2012,https://github.com/IvaDobreva/TP/blob/master/Ruby/csv_homework_ver2.rb
+TITLE,DEADLINE,10/9/2012,https://github.com/IvaDobreva/TP/blob/master/Iva_Dobreva_Repository.png
+TITLE,DEADLINE,10/10/2012,https://github.com/IvaDobreva/TP/blob/master/c5/Commandline_H.java
+TITLE,DEADLINE,10/15/2012,https://github.com/IvaDobreva/TP/blob/master/h6/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/IvaDobreva/TP/blob/master/h7/numbers.rb
+TITLE,DEADLINE,10/22/2012,http://ivadobrevablog.wordpress.com/2012/10/22/github-tutorial/
+Добромир Огнянов Иванов,syliconsynapse@gmail.com,14 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/2/2012,https://github.com/starbust/C-turtle/tree/master/TP
+TITLE,DEADLINE,10/2/2012,https://github.com/starbust/C-turtle/blob/master/TP/parseCSV.rb
+TITLE,DEADLINE,10/4/2012,https://github.com/starbust/C-turtle/blob/master/TP/parseCSV.rb
+TITLE,DEADLINE,10/10/2012,https://github.com/starbust/C-turtle/raw/master/TP/Screenshot-2012-10-10%2021%3A54%3A30.png
+TITLE,DEADLINE,10/11/2012,https://github.com/starbust/C-turtle/blob/master/TP/h4/JVMProperties.java
+TITLE,DEADLINE,10/15/2012,https://github.com/starbust/C-turtle/blob/master/TP/h5/PlaneSeats.java
+TITLE,DEADLINE,10/17/2012,https://github.com/starbust/C-turtle/blob/master/TP/h6/mostPopular.rb
+TITLE,DEADLINE,10/22/2012,http://epicdomain.blogspot.com/2012/10/how-to-create-your-own-git-repository.html
+Александър Божидаров Димитров,xavortm@gmail.com,2 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,12
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/17/2012,https://github.com/xavortm/HomeWork/tree/master/h3
+TITLE,DEADLINE,10/9/2012,http://cloud.github.com/downloads/xavortm/HomeWork/Screenshot-1.png
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/15/2012,https://github.com/xavortm/HomeWork/blob/master/h6/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/xavortm/HomeWork/tree/master/h7
+TITLE,DEADLINE,10/22/2012,http://tech.xavortm.com/git-tutorial/
+Едуард Федев Калфов,edward.kalfov@abv.bg,15 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/TheScouser/python
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/TheScouser/python/src/aae9f6e59dda/version_control_homework
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/TheScouser/python/src/35748424d5ad/version_control_homework
+TITLE,DEADLINE,10/9/2012,https://bitbucket.org/TheScouser/python/src/f1040c370be5/View_homework.png
+TITLE,DEADLINE,10/10/2012,https://bitbucket.org/TheScouser/python/src/8c07b70ff579/Homework/h5/Homework5.java?at=default
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/TheScouser/python/src/ee418dbab2af/Homework/h6/AirPlane.java?at=default
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/TheScouser/python/src/3502f2fcc2d4296fe46f9958f2cda9efe1984746/Homework/h7/Homework7.rb?at=default
+TITLE,DEADLINE,10/22/2012,http://ekalfov.wordpress.com/2012/10/19/how-to-make-your-own-repository/
+Тодор Руменов Маноилов,tmanoilov@abv.bg,28 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/2/2012,https://github.com/fear-sfx/TP
+TITLE,DEADLINE,10/3/2012,https://github.com/fear-sfx/TP/blob/master/homeworks.rb
+TITLE,DEADLINE,10/4/2012,https://github.com/fear-sfx/TP/blob/master/csv_langs2.rb
+TITLE,DEADLINE,10/8/2012,https://github.com/fear-sfx/TP/blob/master/repo_status.png
+TITLE,DEADLINE,10/10/2012,https://github.com/fear-sfx/TP/blob/master/h5/Intro.java
+TITLE,DEADLINE,10/15/2012,https://github.com/fear-sfx/TP/blob/master/h6/AirPlanes.java
+TITLE,DEADLINE,10/17/2012,https://github.com/fear-sfx/TP/tree/master/h7
+TITLE,DEADLINE,10/22/2012,http://fearsfx.wordpress.com/2012/10/22/version-control-systems-vcs-github/
+Йоан Методиев Марков,bubobuboster@gmail.com,19 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/4/2012,https://github.com/Meritas/Code
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/9/2012,https://github.com/Meritas/PT_homeworks/blob/master/h2/6th_col.py
+TITLE,DEADLINE,10/9/2012,http://img692.imageshack.us/img692/3388/picnbx.png
+TITLE,DEADLINE,10/12/2012,https://github.com/Meritas/PT_homeworks/blob/master/h3/MainClass.java
+TITLE,DEADLINE,10/15/2012,https://github.com/Meritas/Programming/blob/master/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/Meritas/PT_homeworks/blob/master/h5/CSV_reader.rb
+TITLE,DEADLINE,10/22/2012,http://markoffy.wordpress.com/2012/10/22/3/
+Георги Евгениев Кръчков,georgi_kratchkov@abv.bg,9 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/2/2012,https://github.com/Georgi-Kratchkov/Homework_1
+TITLE,DEADLINE,10/2/2012,https://github.com/Georgi-Kratchkov/Homework_1/commit/3d7c50d544e1f8509ec89986127e89835b71d313
+TITLE,DEADLINE,10/4/2012,https://github.com/Georgi-Kratchkov/Homework_1/blob/master/Summation.rb
+TITLE,DEADLINE,10/9/2012,https://github.com/Georgi-Kratchkov/TP/blob/master/h4/Picture.png
+TITLE,DEADLINE,10/14/2012,https://github.com/Georgi-Kratchkov/TP/tree/master/h5
+TITLE,DEADLINE,10/15/2012,https://github.com/Georgi-Kratchkov/TP/blob/master/h6/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/Georgi-Kratchkov/TP/blob/master/h7/Counting.rb
+TITLE,DEADLINE,10/22/2012,http://fhercus.wordpress.com/2012/10/22/how-to-work-with-version-control-system-in-ubuntu-how-to-clone-github-repository-how-to-push-repository-to-github-how-to-transfer-all-changes-you-are-making-into-github-how-to-get-those-changes-f/
+Антон Дедиков,unpredictable1819@abv.bg,4 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,12
+TITLE,DEADLINE,10/2/2012,https://github.com/Floriaqt/EntryPrograms
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/10/2012,https://github.com/Floriaqt/TP/tree/master/H3
+TITLE,DEADLINE,10/10/2012,https://github.com/Floriaqt/TP/tree/master/H4
+TITLE,DEADLINE,10/11/2012,https://github.com/Floriaqt/TP/tree/master/H5
+TITLE,DEADLINE,10/15/2012,https://github.com/Floriaqt/TP/blob/master/H6/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/Floriaqt/TP/tree/master/H7
+TITLE,DEADLINE,10/22/2012,http://floriaqt.wordpress.com/
+Димитър Антонов Борисов,dimitar.borisov@mail.bg,13 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/2/2012,https://dborisov@bitbucket.org/dborisov/programs
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/dborisov/programs/src/abd5335287a1/reading_from_csv.py
+TITLE,DEADLINE,10/8/2012,https://bitbucket.org/dborisov/programs/src
+TITLE,DEADLINE,10/8/2012,https://bitbucket.org/dborisov/programs/src/35b9a5e58fa6/Pictures/Pic.png#
+TITLE,DEADLINE,10/10/2012,https://bitbucket.org/dborisov/programs/src/fa9965ed17f4/h5/HomeWorkOne.java?at=default
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/dborisov/programs/src/edef4e07a669/h6/AirPlane1.java?at=default
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/dborisov/programs/src/b8d1f47dabbc9c3c83085664b69e49bade85abc3/h7/1.rb?at=default
+TITLE,DEADLINE,10/22/2012,http://dimitarborisov.wordpress.com/2012/10/21/how-to-work-with-mercurial-en/
+Иван Венциславов Пейчинов,ipeychinov@gmail.com,17 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,15
+TITLE,DEADLINE,10/2/2012,https://github.com/quattrobg/TP
+TITLE,DEADLINE,10/3/2012,https://github.com/quattrobg/TP/blob/master/homeworkruby.rb
+TITLE,DEADLINE,10/4/2012,https://github.com/quattrobg/TP/blob/master/homeworkruby2.rb
+TITLE,DEADLINE,10/10/2012,https://github.com/quattrobg/TP/blob/master/RepoStatus.PNG
+TITLE,DEADLINE,10/10/2012,https://github.com/quattrobg/TP/blob/master/H4/JavaPropertyHomework.java
+TITLE,DEADLINE,10/15/2012,https://github.com/quattrobg/TP/blob/master/H5/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/quattrobg/TP/blob/master/H6/1.rb
+TITLE,DEADLINE,10/22/2012,http://ipeychinov.wordpress.com/2012/10/22/github-how-to/
+Александър Атанасов Осенов,sonico@abv.bg,1 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,14
+TITLE,DEADLINE,10/2/2012,https://github.com/Alexxx888/Programs/tree/master/gotovi
+TITLE,DEADLINE,10/2/2012,https://github.com/Alexxx888/Programs/blob/master/alex.py
+TITLE,DEADLINE,10/4/2012,https://github.com/Alexxx888/Programs/blob/master/alex.py
+TITLE,DEADLINE,10/8/2012,https://github.com/Alexxx888/TP/blob/master/uptodate.PNG
+TITLE,DEADLINE,10/10/2012,https://github.com/Alexxx888/TP/blob/master/h5/CommandLine.java
+TITLE,DEADLINE,10/15/2012,https://github.com/Alexxx888/TP/tree/master/h6
+TITLE,DEADLINE,10/17/2012,https://github.com/Alexxx888/TP/tree/master/h7
+TITLE,DEADLINE,10/22/2012,http://alexosenov-blog.atspace.eu/
+Михаил Михайлов Здравков,mihail0zdravkov@gmail.com,22 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/2/2012,https://github.com/wintre/C-turtle
+TITLE,DEADLINE,10/2/2012,https://github.com/wintre/C-turtle/blob/master/11th%20Grade/TP/csv.rb
+TITLE,DEADLINE,10/4/2012,https://github.com/wintre/C-turtle/blob/master/11th%20Grade/TP/csv2.rb
+TITLE,DEADLINE,10/9/2012,https://github.com/wintre/C-turtle/blob/master/11th%20Grade/TP/repoScreen.png
+TITLE,DEADLINE,10/10/2012,https://github.com/wintre/C-turtle/blob/master/11th%20Grade/TP/h4/HW4.java
+TITLE,DEADLINE,10/15/2012,https://github.com/wintre/C-turtle/blob/master/11th%20Grade/TP/h5/Plane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/wintre/C-turtle/blob/master/11th%20Grade/TP/h6/Popular.java
+TITLE,DEADLINE,10/22/2012,http://indjikiplyactor.blogspot.com/2012/10/working-with-github-through-terminal.html
+Благовест Николаев Божинов,warcraft2005@abv.bg,5 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,14
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/4/2012,https://github.com/KypaB/TP/blob/master/Ruby2.rb
+TITLE,DEADLINE,10/9/2012,https://github.com/KypaB/TP2/blob/master/Screenshot.png
+TITLE,DEADLINE,10/10/2012,https://github.com/KypaB/TP2/blob/master/h5/Java.java
+TITLE,DEADLINE,10/15/2012,https://github.com/KypaB/TP2/blob/master/h6/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/KypaB/TP2/blob/master/h7/1.rb
+TITLE,DEADLINE,10/22/2012,http://kypab.blogspot.com/
+Георги Миленов Цанев,gbdrock@abv.bg,9 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,12
+TITLE,DEADLINE,10/2/2012,https://github.com/mBlack95/12
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/4/2012,https://github.com/mBlack95/12/blob/master/csv_homework.rb
+TITLE,DEADLINE,10/9/2012,http://cloud.github.com/downloads/mBlack95/tues/Screenshot.png
+TITLE,DEADLINE,10/10/2012,https://github.com/mBlack95/tues/blob/master/h5/HomeWork2.java
+TITLE,DEADLINE,10/15/2012,https://github.com/mBlack95/tues/blob/master/h6/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/mBlack95/tues/blob/master/h7/count.rb
+TITLE,DEADLINE,10/22/2012,https://georgitsanev.wordpress.com/
+Божидар Ивов Гьорев,b.giorev@gmail.com,5 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/2/2012,https://github.com/bgiorev/tuestech
+TITLE,DEADLINE,10/2/2012,https://github.com/bgiorev/tuestech/blob/master/mycsv.py
+TITLE,DEADLINE,10/4/2012,https://github.com/bgiorev/tuestech/blob/master/mycsv_new.py
+TITLE,DEADLINE,10/8/2012,https://raw.github.com/bgiorev/tuestech/master/Bojidar_Giorev_Repository.png
+TITLE,DEADLINE,10/10/2012,https://github.com/bgiorev/tuestech/blob/master/h5/CommandLine.java
+TITLE,DEADLINE,10/15/2012,https://github.com/bgiorev/tuestech/blob/master/h6/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/bgiorev/tuestech/blob/master/h7/1.rb
+TITLE,DEADLINE,10/22/2012,http://bgiorev.wordpress.com/2012/10/22/how-to-use-github-tutorial/
+Красимир Светославов Стойков,krasimir.stojkov@gmail.com,20 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/2/2012,https://github.com/lukistar/Discworld
+TITLE,DEADLINE,10/2/2012,https://github.com/lukistar/Discworld/blob/master/Homework2.py
+TITLE,DEADLINE,10/4/2012,https://github.com/lukistar/Discworld/blob/master/Homework3.py
+TITLE,DEADLINE,10/9/2012,https://github.com/lukistar/Discworld/blob/master/TP/The_Most_Terrible_Homework_Ever.png
+TITLE,DEADLINE,10/10/2012,https://github.com/lukistar/Discworld/tree/master/TP/h5
+TITLE,DEADLINE,10/15/2012,https://github.com/lukistar/Discworld/blob/master/TP/h6/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/lukistar/Discworld/blob/master/TP/h7/famous.rb
+TITLE,DEADLINE,10/22/2012,http://lukistar.wordpress.com/
+Даниела Яворова Алексова,daniela.aleksova95@abv.bg,12 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,14
+TITLE,DEADLINE,10/2/2012,https://github.com/Daniela666/TP
+TITLE,DEADLINE,10/3/2012,https://github.com/Daniela666/PPS/blob/master/Zadacha1-CSV.py
+TITLE,DEADLINE,10/4/2012,https://github.com/Daniela666/TP-CSV/blob/master/Zadacha2-CSV.rb
+TITLE,DEADLINE,10/8/2012,https://github.com/DAleksova666/TP/blob/master/1.PNG
+TITLE,DEADLINE,10/10/2012,https://github.com/DAleksova666/TP/blob/master/h4/SistemProperties.java
+TITLE,DEADLINE,10/15/2012,https://github.com/DAleksova666/TP/blob/master/h5/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/DAleksova666/TP/blob/master/h6/MostPopular.rb
+TITLE,DEADLINE,10/22/2012,http://bunnzy666.wordpress.com/2012/10/22/version-control-system/
+Анна-Мария Верева матейна,any333@abv.bg,3 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,7
+TITLE,DEADLINE,10/2/2012,https://github.com/any333/files-c.git
+TITLE,DEADLINE,10/4/2012,https://github.com/any333/files-c/blob/master/csv.py
+TITLE,DEADLINE,10/4/2012,https://github.com/any333/files-c/blob/master/csv%2B.py
+TITLE,DEADLINE,10/8/2012,https://github.com/any333/TP/blob/master/Anna-Mariya_Mateyna_repository.png
+TITLE,DEADLINE,10/10/2012,https://github.com/any333/TP/blob/master/h5/Version.java
+TITLE,DEADLINE,10/15/2012,https://github.com/any333/TP/blob/master/h6/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/any333/TP/blob/master/h7/1.rb
+TITLE,DEADLINE,10/22/2012,http://any333.wordpress.com/2012/10/22/gitcommands/
+Денислав Райчев Първанов,denislav_parvanov_1995@abv.bg,13 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,12
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/9/2012,https://bitbucket.org/denislav13/homeworks/src/c87dba618b51/repo_status.png#
+TITLE,DEADLINE,10/11/2012,https://bitbucket.org/denislav13/tp/src/cb79d92862c7/h4/GetProperty.java?at=default
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/denislav13/tp/src/243454a1ae7c3eed8e7d6084952dd5a23aaea901/h7/1.rb?at=default
+TITLE,DEADLINE,10/22/2012,http://parvanov.wordpress.com/2012/10/22/how-to-use-bitbucket-tutorial/
+Диана Марио Бояджиева,didsito13@abv.bg,11 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,4
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/dboyadjieva/homework
+TITLE,DEADLINE,10/2/2012,-
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/dboyadjieva/homework/downloads/project.rb
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/10/2012,https://bitbucket.org/dboyadjieva/homework/downloads#download-109072
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/dboyadjieva/homework/downloads/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/dboyadjieva/homework/downloads/student.rb
+TITLE,DEADLINE,10/22/2012,http://uploading.com/files/get/6m1f6bde/DianaBoyadjieva11a.doc
+Атанас Атанасов,nasko_alekov@abv.bg,3 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,4
+TITLE,DEADLINE,10/2/2012,https://naskoatanasov@bitbucket.org/naskoatanasov/homework
+TITLE,DEADLINE,10/2/2012,-
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/naskoatanasov/homework/downloads/homework1.rb
+TITLE,DEADLINE,10/9/2012,https://bitbucket.org/naskoatanasov/homeworks/src/64fe20b49ce2/h5/Screenshot%20.png
+TITLE,DEADLINE,10/11/2012,https://bitbucket.org/naskoatanasov/homeworks/changeset/cdf7537b8fec126bf24ddd70476e1087
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/naskoatanasov/homeworks/changeset/3dab157328e14996e77059298a3068cd
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/naskoatanasov/homeworks/changeset/63b740c855863c68e2a7485937cfdef8
+TITLE,DEADLINE,10/22/2012,https://bitbucket.org/naskoatanasov/homeworks/src/483d36708165cc8202e1109e3097532db81f725c/bb/BitBucket.pdf
+Nikolai Stanev,nikolaystanev@abv.bg,20 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,15
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+Стефан Юлиянов Петров,spetrov123@yahoo.com,27 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,4
+TITLE,DEADLINE,10/2/2012,https://github.com/spetrov123/Programming
+TITLE,DEADLINE,10/4/2012,https://github.com/spetrov123/Programming/blob/master/csv_hw1.rb
+TITLE,DEADLINE,10/4/2012,https://github.com/spetrov123/Programming/blob/master/csv_hw2.rb
+TITLE,DEADLINE,10/15/2012,https://github.com/spetrov123/Programming/blob/master/repository_condition.png
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/17/2012,https://github.com/spetrov123/Programming/blob/master/h7/1.rb
+TITLE,DEADLINE,10/22/2012,http://spetrov123.wordpress.com/2012/10/22/github-tutorial/
+Пламен Христов Никифоров,plamenxr@mail.bg,25 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,5
+TITLE,DEADLINE,10/2/2012,https://github.com/PlamenNikifor/Programs/commit/7152d8ded46995b4d70bccd8c5aa6a4e40eef7d6
+TITLE,DEADLINE,10/2/2012,-
+TITLE,DEADLINE,10/4/2012,https://github.com/PlamenNikifor/Programs/blob/master/homework2.rb
+TITLE,DEADLINE,10/9/2012,http://cloud.github.com/downloads/PlamenNikifor/Programs/h5.png
+TITLE,DEADLINE,10/10/2012,https://github.com/PlamenNikifor/Programs/blob/master/homework6/JavaHomework1.java
+TITLE,DEADLINE,10/15/2012,https://github.com/PlamenNikifor/Programs/tree/master/homework7
+TITLE,DEADLINE,10/17/2012,https://github.com/PlamenNikifor/Programs/blob/master/homework8/Numbers1.rb
+TITLE,DEADLINE,10/22/2012,http://plamennikiforov.blogspot.com/
+Мартин Красимиров Кирилов,marti_kirilov@abv.bg,17 номер,11 A
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/2/2012,https://github.com/Martinski95/ProgrammingTechnology1task.git
+TITLE,DEADLINE,10/2/2012,https://github.com/Martinski95/ProgrammingTechnology1task/blob/master/csvcount.py
+TITLE,DEADLINE,10/4/2012,https://github.com/Martinski95/ProgrammingTechnology1task/blob/master/csv_homework2.rb
+TITLE,DEADLINE,10/9/2012,https://github.com/Martinski95/ProgrammingTechnology1task/blob/master/h5/1.png
+TITLE,DEADLINE,10/10/2012,https://github.com/Martinski95/ProgrammingTechnology1task/blob/master/h6/SystemProperties.java
+TITLE,DEADLINE,10/15/2012,https://github.com/Martinski95/ProgrammingTechnology1task/blob/master/h7/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/Martinski95/ProgrammingTechnology1task/blob/master/h8/1.py
+TITLE,DEADLINE,10/22/2012,http://martikirilov.wordpress.com/2012/10/22/github-tutorial/
+Божидар Станчев,flashstealer@gmail.com,4 номер,11 A
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,11
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/bstanchev/b.stanchev.tues
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/bstanchev/b.stanchev.tues
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/bstanchev/b.stanchev.tues
+TITLE,DEADLINE,10/9/2012,https://bitbucket.org/bstanchev/b.stanchev/src/b71321c488e1/h5/screenshot.png
+TITLE,DEADLINE,10/10/2012,https://bitbucket.org/bstanchev/b.stanchev/src/8db93fc1f017/h6/HomeWork.java?at=default
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/bstanchev/b.stanchev/src/83ba8a523a93/h7/AirPlane.java?at=default
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/22/2012,http://bojidarstanchev.wordpress.com/videos/
+Христо Ивайлов Михайлов,reportera7@abv.bg,28 номер,11 A
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,5
+TITLE,DEADLINE,10/2/2012,https://hmihaylov@bitbucket.org/hmihaylov/programirane
+TITLE,DEADLINE,10/2/2012,https://hmihaylov@bitbucket.org/hmihaylov/programirane
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/hmihaylov/programirane/changeset/10cd5035ab17a9462b590e105ccb6eed
+TITLE,DEADLINE,10/9/2012,https://bitbucket.org/hmihaylov/homework/src/c30e9d92e46b3b4d53dc8358a397a7f3124ba99e/h14/1.png
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/hmihaylov/homework/changeset/8d4e34dc25426f7a488c43ada612aaf8
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/hmihaylov/homework/src/dc7c37e9c93fcd251d1bf66a14324cbc925217dc/h16/h6.py
+TITLE,DEADLINE,10/22/2012,http://hmihaylov.blogspot.com/2012/10/mercurial-and-bitbucket-turorial.html
+Кристин Христова Найденова,cnaydenova@gmail.com,14 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,7
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/cnaydenovaa/school
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/cnaydenovaa/school/downloads    (program.py i program2.py)
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/cnaydenovaa/python/changeset/aea1121edb810f34c6fcf5cd4d65704522a19aca
+TITLE,DEADLINE,10/9/2012,https://bitbucket.org/cnaydenovaa/myrepository/src/561789efee8a/h4/Screenshot.png
+TITLE,DEADLINE,10/10/2012,https://bitbucket.org/cnaydenovaa/myrepository/changeset/0d7aab2879c61c1d1d850c3906d743644c66d6db
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/cnaydenovaa/myrepository/src/5639de8d1acb/h7/AirPlane.java?at=default
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/cnaydenovaa/myrepository/changeset/cb84d6f60ef54555f3f97759a5f32701
+TITLE,DEADLINE,10/22/2012,http://christinenaydenova.wordpress.com/2012/10/22/28/
+Денис Евгениев Николов,denisnikolow@gmail.com,11 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,11
+TITLE,DEADLINE,10/2/2012,https://github.com/denisnikolow/Denis11a
+TITLE,DEADLINE,10/2/2012,-
+TITLE,DEADLINE,10/4/2012,https://github.com/denisnikolow/Denis11a/blob/master/csv_homework.rb
+TITLE,DEADLINE,10/9/2012,https://github.com/denisnikolow/Denis11a/blob/master/h5/progress.png
+TITLE,DEADLINE,10/10/2012,https://github.com/denisnikolow/Denis11a/blob/master/h6/HomeWork1.java
+TITLE,DEADLINE,10/15/2012,https://github.com/denisnikolow/Denis11a/blob/master/h7/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/denisnikolow/Denis11a/blob/master/h8/1.rb
+TITLE,DEADLINE,10/22/2012,https://github.com/denisnikolow/Denis11a/blob/master/h9/1.pdf
+Иван Мирославов Манев,iwanmanew@yahoo.com,13 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,4
+TITLE,DEADLINE,10/2/2012,https://imanew@bitbucket.org/imanew/my-homework
+TITLE,DEADLINE,10/2/2012,-
+TITLE,DEADLINE,10/4/2012,https://imanew@bitbucket.org/imanew/ruby-public
+TITLE,DEADLINE,10/9/2012,https://github.com/iwanmanew/elsys/blob/master/h5/Screenshot.png
+TITLE,DEADLINE,10/10/2012,https://github.com/iwanmanew/elsys/blob/master/h6/HomeWork1.java
+TITLE,DEADLINE,10/15/2012,https://github.com/iwanmanew/elsys/blob/master/h7/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/iwanmanew/elsys/blob/master/h8/12.rb
+TITLE,DEADLINE,10/22/2012,http://mylifemyblogg.wordpress.com/2012/10/22/27/
+Никола Божинов,nikola_bojinovtues@abv.bg,19 номер,11 A
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/nbojinov/homework
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/nbojinov/homework
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/nbojinov/homework
+TITLE,DEADLINE,10/9/2012,https://bitbucket.org/nbojinov/homework/src/a6da21a26bd0/h5/screenshot.png
+TITLE,DEADLINE,10/10/2012,https://bitbucket.org/nbojinov/homework/src/461aca5218df/h6?at=default
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/nbojinov/homework/src/759ec22a9d15/h7/1.java?at=default
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/nbojinov/homework/src/0c1588af93a9b6a3f774dea45a2d06c64c53931a/h8/1.py?at=default
+TITLE,DEADLINE,10/22/2012,http://nbojinovtues.wordpress.com/2012/10/22/version-control-systems/
+Петър Станев,petarstanevtues@gmail.com,24 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,14
+TITLE,DEADLINE,10/2/2012,https://pstanev@bitbucket.org/pstanev/homework
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/pstanev/homework/downloads
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/pstanev/homework/downloads/reader2.py
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/14/2012,https://bitbucket.org/pstanev/homework/changeset/6a9d29a9b7ef3c275ad70f9eb068212e
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/pstanev/homework/src/5411054465f7/h7/Plane.java?at=default
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/pstanev/homework/changeset/b20e475cdfe80ff18d27b27599c03a94
+TITLE,DEADLINE,10/22/2012,http://petarstanevtues.wordpress.com/2012/10/17/mercurial-simple-commands/
+Иван-Васил Тодоров Генев,ivanvasilgenev@abv.bg,13 номер,11 A
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,5
+TITLE,DEADLINE,10/2/2012,https://github.com/shizhi1/Programii/commit/c0fcac2a624ce2c950baf39c2455dac75bd5c891
+TITLE,DEADLINE,10/2/2012,-
+TITLE,DEADLINE,10/4/2012,https://github.com/shizhi1/Programii/blob/master/KirilMtovPythonHW2.py
+TITLE,DEADLINE,10/9/2012,http://cloud.github.com/downloads/shizhi1/Programii/h5.png
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/17/2012,https://github.com/shizhi1/Programii/blob/master/h8/MostPopular.py
+TITLE,DEADLINE,10/22/2012,http://ivanvasilgenev.blog.com/2012/10/22/how-to-use-git-via-the-terminal/
+Антон Митков,tonimitkov2s@gmail.com,2 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,8
+TITLE,DEADLINE,10/2/2012,https://t0ncho@bitbucket.org/t0ncho/homework
+TITLE,DEADLINE,10/2/2012,--------------
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/t0ncho/homework.csv/changeset/68a5bba4c886bde19e8a4f882989585d
+TITLE,DEADLINE,10/9/2012,https://github.com/t0ncho/Anton_Mitkow_11a/blob/master/h5/AntonM11a.png
+TITLE,DEADLINE,10/10/2012,https://github.com/t0ncho/Anton_Mitkow_11a/blob/master/h6/anton.java
+TITLE,DEADLINE,10/15/2012,https://github.com/t0ncho/Anton_Mitkow_11a/blob/master/h7/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/t0ncho/Anton_Mitkow_11a/blob/master/h8/1.rb
+TITLE,DEADLINE,10/22/2012,http://t0ncho2s.files.wordpress.com/2012/10/version-control-system-with-terminal3.pdf
+Даниел Красимиров Цоков,daniel_tskov@abv.bg,9 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,6
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/4/2012,https://raw.github.com/gist/20c33b2ffa2b94479e5e/0483e0c0f2a8c39916b08a218d978b3f9fe4a9fd/homework2_ruby
+TITLE,DEADLINE,10/10/2012,https://github.com/DanielCokov/Homework/blob/master/h3/2.png
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+Владимир Ангелов Ангелов,triedgeai@gmail.com,7 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/2/2012,https://github.com/TriEdgeAI/elsys.git
+TITLE,DEADLINE,10/2/2012,https://github.com/TriEdgeAI/elsys/tree/master/csv
+TITLE,DEADLINE,10/4/2012,https://github.com/TriEdgeAI/elsys/blob/master/csv/csv.py
+TITLE,DEADLINE,10/9/2012,https://github.com/TriEdgeAI/elsys/blob/master/h5/1.png
+TITLE,DEADLINE,10/10/2012,https://github.com/TriEdgeAI/elsys/blob/master/h6/CommandLineParams.java
+TITLE,DEADLINE,10/15/2012,https://github.com/TriEdgeAI/elsys/blob/master/h7/PlaneView.java
+TITLE,DEADLINE,10/17/2012,https://github.com/TriEdgeAI/elsys/blob/master/h8/1.cpp
+TITLE,DEADLINE,10/22/2012,http://grayshift.net/Thread-Linux-%D0%98%D0%B7%D0%BF%D0%BE%D0%BB%D0%B7%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-GitHub-%D0%BF%D1%80%D0%B5%D0%B7-Terminal
+Мартин Занов,martinzanov@abv.bg,16 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,13
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/makros
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/makros/homework3
+TITLE,DEADLINE,10/9/2012,https://bitbucket.org/makros/homework/src/17c3c729793ce8c080f5b2b9a7abe5b1c48d2c88/repoinpic.PNG
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/makros/homework/changeset/8b4a120e294b6953d0bb1a2080d8986ede5c5c9c
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/makros/homework/src/0dfc8a027f84c03172f95bd0d6b53b99a95a74a0/h8/1.py
+TITLE,DEADLINE,10/22/2012,https://bitbucket.org/makros/homework/src/0401ee4e4a868a6a4fa12f6bf137ed76b05946e7/VCS_terminal.pdf
+Любослав Димитров Йорданов,liuboslav_jordanov@mail.bg,15 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,2
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/crazybubo/ychilishte/downloads
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/crazybubo/ychilishte/downloads/Script.rb
+TITLE,DEADLINE,10/10/2012,https://github.com/crazybubo/HomeWork/blob/master/HW3/New%20Picture.png
+TITLE,DEADLINE,10/11/2012,https://github.com/crazybubo/HomeWork/blob/master/HW4/1.java
+TITLE,DEADLINE,10/15/2012,https://github.com/crazybubo/HomeWork/blob/master/HW5/AirPlaneBig.java
+TITLE,DEADLINE,10/17/2012,https://github.com/crazybubo/HomeWork/blob/master/HW6/popular.rb
+TITLE,DEADLINE,10/22/2012,http://forums.data.bg/index.php?showtopic=2104201
+Васил Ясенов Божурски,slightremorse@gmail.com,6 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/2/2012,https://github.com/slightremorse/vaskosbox
+TITLE,DEADLINE,10/2/2012,www.github.com/slightremorse/vaskosbox
+TITLE,DEADLINE,10/4/2012,https://github.com/SlightRemorse/VaskosBox/blob/master/test.py
+TITLE,DEADLINE,10/10/2012,https://raw.github.com/SlightRemorse/VaskosBox/master/h5/repositorypic.png
+TITLE,DEADLINE,10/10/2012,https://github.com/SlightRemorse/VaskosBox/blob/master/h6/HomeWork1.java
+TITLE,DEADLINE,10/15/2012,https://raw.github.com/SlightRemorse/VaskosBox/master/h7/Planes.java
+TITLE,DEADLINE,10/17/2012,https://raw.github.com/SlightRemorse/VaskosBox/master/h8/1.py
+TITLE,DEADLINE,10/22/2012,http://vaskosbox.blogspot.com/
+Николай Божков,nikolaybojkov95@gmail.com,23 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,17
+TITLE,DEADLINE,10/2/2012,https://nbojkov@bitbucket.org/nbojkov/homework
+TITLE,DEADLINE,10/2/2012,https://nbojkov@bitbucket.org/nbojkov/homework
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/10/2012,https://bitbucket.org/nbojkov/homework/src/957d730ffbf2/h5/Screenshot.PNG?at=default
+TITLE,DEADLINE,10/10/2012,https://bitbucket.org/nbojkov/homework/src/957d730ffbf2/h6/JavaVersion.java?at=default
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/nbojkov/homework/src/9b533556ebdc/h7/AirPlane.java?at=default
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/nbojkov/homework/changeset/b3311e7053b0cf6da97aaab76b2da85b
+TITLE,DEADLINE,10/22/2012,http://nikolaybojkov95.wordpress.com/2012/10/22/version-control-system/
+Светлин Илиев Владов,svetlin_vladov@abv.bg,26 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,6
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/2/2012,------------------------------------------
+TITLE,DEADLINE,10/4/2012,https://raw.github.com/gist/3816948/6a47383ceaf3a7a2d3cc30ee7c0de87b20445b67/ruby%20csv%20file
+TITLE,DEADLINE,10/10/2012,https://github.com/SvetlinVladov/Homework/blob/master/h3/1.png
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+Михаил Цанов,mihailcanov@abv.bg,18 номер,11 A
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,7
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/mcanov/
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/mcanov
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/mcanov/programing-homework-projects/changeset/a79aaff5379d8128a36b41f4988650b6
+TITLE,DEADLINE,10/9/2012,https://bitbucket.org/mcanov/homework/src/1e2ba7fdcdda5b7ff5d7414841647ba849bc311f/h5/1.png
+TITLE,DEADLINE,10/10/2012,https://bitbucket.org/mcanov/homework/changeset/0624c0d8a69f7061cb1b4acbc8aceb9d
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/mcanov/homework/src/e7e71cec691d/h7/Airplanes.java?at=default
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/22/2012,https://bitbucket.org/mcanov/homework/changeset/aaa15337f255e75619c1a5a292819a3a#chg-HowTo.docx
+Георги Динков Нейчев,georgi__neichev@abv.bg,8 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,0
+TITLE,DEADLINE,10/2/2012,-
+TITLE,DEADLINE,10/2/2012,-
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/15/2012,https://github.com/georgi95/homework/blob/master/hw6/AirPlane.java
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+Николай Тихомиров Коцев,nikolay_kotzev@abv.bg,22 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,11
+TITLE,DEADLINE,10/2/2012,https://github.com/Hadescho/Prog_tech
+TITLE,DEADLINE,10/2/2012,https://github.com/Hadescho/Prog_tech/tree/master/Homework2
+TITLE,DEADLINE,10/4/2012,https://github.com/Hadescho/Prog_tech/blob/master/Homework3/homeworkcsv.rb
+TITLE,DEADLINE,10/9/2012,https://github.com/Hadescho/Tech/blob/master/h5/1.png
+TITLE,DEADLINE,10/10/2012,https://github.com/Hadescho/Tech/blob/master/h6/sysProp.java
+TITLE,DEADLINE,10/15/2012,https://github.com/Hadescho/Tech/blob/master/h7/planePlan.java
+TITLE,DEADLINE,10/17/2012,https://github.com/Hadescho/Tech/blob/master/h8/1.rb
+TITLE,DEADLINE,10/22/2012,http://hadescho.blogspot.com/
+Borislav Jordanov,jordanov.borislav@gmail.com,5 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/27/2012,4
+TITLE,DEADLINE,10/10/2012,http://github.com/pwnoobz/elsys.git
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/11/2012,https://github.com/pwnoobz/elsys/blob/master/Java
+TITLE,DEADLINE,10/15/2012,https://github.com/pwnoobz/elsys/blob/master/Java/Airplane/src/Airplane.java
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+Андон Мицов,donimicov@yahoo.com,1 номер,11 A
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,9/30/2012,0
+TITLE,DEADLINE,10/2/2012,https://bitbucket.org/dmitsov/homework
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/9/2012,https://bitbucket.org/dmitsov/tnp/src
+TITLE,DEADLINE,10/10/2012,https://bitbucket.org/dmitsov/tnp/src
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/dmitsov/tnp2/src/acf11376d6d6/Airplane.java?at=default
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/dmitsov/tnp2/src/a850727ed70b21d7e525c02854d86bd704af4d69/Popularity.rb?at=default
+TITLE,DEADLINE,10/22/2012,http://www.wikihow.com/Use-the-Mercurial-Version-Control-System
+Петър Ников,nikog.elsys@gmail.com,24 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,10/1/2012,14
+TITLE,DEADLINE,10/2/2012,github.com/artley
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+Радослав Михаилов Михаилов,radoisan@gmail.com,26 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,10/1/2012,11
+TITLE,DEADLINE,10/2/2012,https://github.com/radoisan/TASKS.git
+TITLE,DEADLINE,10/4/2012,https://github.com/downloads/radoisan/TASKS/homework1.rb
+TITLE,DEADLINE,10/4/2012,https://github.com/radoisan/TASKS.git
+TITLE,DEADLINE,10/9/2012,https://github.com/radoisan/homeworks/blob/master/Screenshot.png
+TITLE,DEADLINE,10/10/2012,https://github.com/radoisan/homeworks/tree/master/h5
+TITLE,DEADLINE,10/15/2012,https://github.com/radoisan/homeworks
+TITLE,DEADLINE,10/17/2012,https://github.com/radoisan/homeworks/tree/master/csv
+TITLE,DEADLINE,10/22/2012,http://www.scribd.com/doc/110789677
+Даниел Николаев Георгиев,daniel.georgiev95@gmail.com,10 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,DEADLINE,10/4/2012,17
+TITLE,DEADLINE,10/2/2012,https://github.com/subscribe01
+TITLE,DEADLINE,10/3/2012,https://github.com/subscribe01/TP/blob/master/csv_homework.rb
+TITLE,DEADLINE,10/4/2012,https://github.com/subscribe01/TP/blob/master/CVS%20homework/csv_homework2.rb
+TITLE,DEADLINE,10/8/2012,https://github.com/subscribe01/TP/blob/master/repository.png
+TITLE,DEADLINE,10/10/2012,https://github.com/subscribe01/TP/blob/master/H5/Homework1.java
+TITLE,DEADLINE,10/15/2012,https://github.com/subscribe01/TP/blob/master/H6/Airplane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/subscribe01/TP/blob/master/H7/popular.rb
+TITLE,DEADLINE,10/22/2012,http://danielgeorgiev01.wordpress.com/2012/10/22/how-to-use-git-and-make-first-and-second-commit-to-github/
+Христо Георгиев Георгиев,hritogg1@abv.bg,29 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,няма,непредадено,няма
+TITLE,DEADLINE,10/2/2012,https://github.com/hristogg1/TP
+TITLE,DEADLINE,10/2/2012,https://github.com/hristogg1/Homework/blob/master/RubyTest.rb
+TITLE,DEADLINE,10/4/2012,https://github.com/hristogg1/Ruby
+TITLE,DEADLINE,10/9/2012,https://github.com/hristogg1/TP/blob/master/Test.PNG
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+Петър Георгиев Нетовски,petarnet@abv.bg,25 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,няма,непредадено,няма
+TITLE,DEADLINE,10/2/2012,https://PeterNet@bitbucket.org/PeterNet/my1strepo
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/PeterNet/my1strepo/src/85ac029ecc2db004c520b5745065136e379af767/c2/csv_prog.rb?at=default
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/PeterNet/my1strepo/src/fbeb176d3204/csv_homework.rb
+TITLE,DEADLINE,10/9/2012,https://bitbucket.org/PeterNet/my1strepo/src/76d9ffac5b8e/ScreenShot.png
+TITLE,DEADLINE,10/11/2012,https://bitbucket.org/PeterNet/my1strepo/src/f9319d7dd698/JavaHomework.java?at=default
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/PeterNet/my1strepo/src/c044b14a6e02/c6/AirPlane.java?at=default
+TITLE,DEADLINE,10/17/2012,https://bitbucket.org/PeterNet/my1strepo/src/6cb911cc51fcf8eda01b4c9c2965dacafa4ecdb0/c7/popular.rb?at=default
+TITLE,DEADLINE,10/22/2012,http://petarnet.wordpress.com/2012/10/22/mercurial-guide/
+Николай Станев,nickolaystanev@abv.bg,20 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,няма,непредадено,няма
+TITLE,DEADLINE,10/2/2012,https://github.com/anikia2
+TITLE,DEADLINE,10/2/2012,https://github.com/anikia2/domshno2/blob/master/.gitignore
+TITLE,DEADLINE,10/4/2012,https://github.com/anikia2/domashno2_version2/blob/master/.gitignore
+TITLE,DEADLINE,10/9/2012,https://github.com/nickolaystanev/homework/blob/master/h4/1.png
+TITLE,DEADLINE,10/10/2012,https://github.com/nickolaystanev/homework/blob/master/h6/args_1.java
+TITLE,DEADLINE,10/15/2012,https://github.com/nickolaystanev/homework/blob/master/h7/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/nickolaystanev/homework/tree/master/homework8
+TITLE,непредадено,няма,няма
+Даниел Красимиров Цоков,daniel_tskov@abv.bg,- номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,няма,непредадено,няма
+TITLE,DEADLINE,10/2/2012,https://gist.github.com/20c33b2ffa2b94479e5e 
+TITLE,DEADLINE,10/2/2012,-------------------------------------
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+Николай Емилов Стоянов,nikolai_stoaynov@abv.bg,- номер,11 A
+Тема,Срок,Предадено,Връзка
+TITLE,няма,непредадено,няма
+TITLE,DEADLINE,10/2/2012,-
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+Николай Христов Божков,nikolatbojkov95@gmail.com,23 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,няма,непредадено,няма
+TITLE,няма,непредадено,няма
+TITLE,няма,непредадено,няма
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/nbojkov/homework/downloads/csv_reader_1_1.py
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+Филип Мостафа ,filip_mos@abv.bg,28 номер,11 А
+Тема,Срок,Предадено,Връзка
+TITLE,няма,непредадено,няма
+TITLE,няма,непредадено,няма
+TITLE,няма,непредадено,няма
+TITLE,DEADLINE,10/4/2012,https://bitbucket.org/filip_mos/programi/changeset/1be59f06f072188828a8a7d1339b3971
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
+TITLE,DEADLINE,10/22/2012,http://filipmos.blogspot.com/
+Петър Бориславов Ников,nikov.elsys@gmail.com,24 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,няма,непредадено,няма
+TITLE,няма,непредадено,няма
+TITLE,няма,непредадено,няма
+TITLE,DEADLINE,10/4/2012,https://github.com/artley/Homeworks
+TITLE,DEADLINE,10/9/2012,https://github.com/artley/h3/blob/master/repo.PNG
+TITLE,DEADLINE,10/11/2012,https://github.com/artley/h4/blob/master/SystemProperty.java
+TITLE,DEADLINE,10/15/2012,https://github.com/artley/h6/blob/master/AirPlane.java
+TITLE,DEADLINE,10/17/2012,https://github.com/artley/h7
+TITLE,DEADLINE,10/22/2012,http://peturnikov.wordpress.com/2012/10/22/how-to-use-github-on-ubuntu/
+Денислав Първанов,denislav_raichev_1995@abv.bg,13 номер,11 Б
+Тема,Срок,Предадено,Връзка
+TITLE,няма,непредадено,няма
+TITLE,няма,непредадено,няма
+TITLE,няма,непредадено,няма
+TITLE,няма,непредадено,няма
+TITLE,няма,непредадено,няма
+TITLE,няма,непредадено,няма
+TITLE,DEADLINE,10/15/2012,https://bitbucket.org/denislav13/tp/src/d37c2ab3d0eb/h6/AirPlane.java?at=default
+TITLE,непредадено,няма,няма
+TITLE,непредадено,няма,няма
