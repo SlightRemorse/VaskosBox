@@ -21,14 +21,6 @@ class student {
 vector <student> liststudent;
 int count;
 
-void displaytm() {
-	cout << temp.name << endl << temp.class_ << endl << temp.classnum << endl << temp.email << endl << endl;	
-}
-
-void displaym(int num) {
-	cout << liststudent[num].name << endl << liststudent[num].class_ << endl << liststudent[num].classnum << endl << liststudent[num].email << endl << endl;
-}
-
 
 string decase(string str) {
 	for(int i=0; i<str.size(); i++) {
@@ -120,22 +112,6 @@ void check() {
 				return;
 			}
 		}
-		/*if((simi[1]==1) && (temp.classnum!="-")) { // by classnumber
-			cout << "Setting " << temp.name << " with " << temp.classnum << endl;			
-			liststudent[i].email=temp.email;
-			liststudent[i].class_=temp.class_;
-			bool newalias=1;
-			for(int in=0; in<liststudent[i].alias.size(); in++) {
-				if(liststudent[i].alias[in]==liststudent[i].name) newalias=0;
-			}
-			if(newalias) liststudent[i].alias.push_back(liststudent[i].name);
-			liststudent[i].name=temp.name;
-			liststudent[i].title.push_back("TITLE");
-			liststudent[i].deadline.push_back("DEADLINE");
-			liststudent[i].finishdate.push_back(temp.finishdate[0]);
-			liststudent[i].link.push_back(temp.link[0]);
-			return;
-		}*/
 	}		
 	liststudent.push_back(temp);
 	for(int i=1; i<count; i++) {
@@ -196,6 +172,7 @@ int main() {
 		cout << filename << endl;
 		ifstream myfile;
 		myfile.open(filename.c_str());
+		getline(myfile, line); // first blank
 		while(!myfile.eof()) {
 			getline(myfile, line);
 			if(line!="") split(line);			
@@ -210,10 +187,18 @@ int main() {
 			}
 		}
 	}
+	//display
+	ofstream myFile;
+	myFile.open("finish.csv");
+	string test="goshko";
+	for(int i=0; i<liststudent.size(); i++) {
+		myFile << i << "." << liststudent[i].name << " " << liststudent[i].email << " " << liststudent[i].classnum << " " << liststudent[i].class_ << "\n";
+	}
+	myFile.close();
 	for(int i=0; i<liststudent.size(); i++) {
 		cout << i << "." << liststudent[i].name << "::" << liststudent[i].email << "::" << liststudent[i].classnum << "::" << liststudent[i].class_ << endl;
 		for(int a=0; a<liststudent[i].link.size(); a++) {
-	//		cout << a << ". " << liststudent[i].link[a] << endl;
+		//	cout << a << ". " << liststudent[i].link[a] << endl;
 		}
 	}
 	cout << liststudent[44].name << endl;
