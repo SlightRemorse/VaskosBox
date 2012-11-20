@@ -1,0 +1,11 @@
+c:\documents and settings\bloodlike\my documents\visual studio 2010\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+c:\documents and settings\bloodlike\my documents\visual studio 2010\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+c:\documents and settings\bloodlike\my documents\visual studio 2010\Projects\WebCrawler\WebCrawler\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\bloodlike\my documents\visual studio 2010\Projects\WebCrawler\WebCrawler\obj\x86\Debug\WebCrawler.Form1.resources
+c:\documents and settings\bloodlike\my documents\visual studio 2010\Projects\WebCrawler\WebCrawler\obj\x86\Debug\WebCrawler.Properties.Resources.resources
+c:\documents and settings\bloodlike\my documents\visual studio 2010\Projects\WebCrawler\WebCrawler\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\bloodlike\my documents\visual studio 2010\Projects\WebCrawler\WebCrawler\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\bloodlike\my documents\visual studio 2010\Projects\WebCrawler\WebCrawler\obj\x86\Debug\WebCrawler.exe
+c:\documents and settings\bloodlike\my documents\visual studio 2010\Projects\WebCrawler\WebCrawler\obj\x86\Debug\WebCrawler.pdb
+D:\Repository\VaskosBox\WebCrawler\WebCrawler\obj\x86\Debug\WebCrawler.exe
+D:\Repository\VaskosBox\WebCrawler\WebCrawler\obj\x86\Debug\WebCrawler.pdb
