@@ -1,9 +1,0 @@
-C:\Documents and Settings\Bloodlike\My Documents\Visual Studio 2010\Projects\WebCrawler\WebCrawler\bin\Release\WebCrawler.exe
-C:\Documents and Settings\Bloodlike\My Documents\Visual Studio 2010\Projects\WebCrawler\WebCrawler\bin\Release\WebCrawler.pdb
-C:\Documents and Settings\Bloodlike\My Documents\Visual Studio 2010\Projects\WebCrawler\WebCrawler\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Documents and Settings\Bloodlike\My Documents\Visual Studio 2010\Projects\WebCrawler\WebCrawler\obj\x86\Release\WebCrawler.Form1.resources
-C:\Documents and Settings\Bloodlike\My Documents\Visual Studio 2010\Projects\WebCrawler\WebCrawler\obj\x86\Release\WebCrawler.Properties.Resources.resources
-C:\Documents and Settings\Bloodlike\My Documents\Visual Studio 2010\Projects\WebCrawler\WebCrawler\obj\x86\Release\GenerateResource.read.1.tlog
-C:\Documents and Settings\Bloodlike\My Documents\Visual Studio 2010\Projects\WebCrawler\WebCrawler\obj\x86\Release\GenerateResource.write.1.tlog
-C:\Documents and Settings\Bloodlike\My Documents\Visual Studio 2010\Projects\WebCrawler\WebCrawler\obj\x86\Release\WebCrawler.exe
-C:\Documents and Settings\Bloodlike\My Documents\Visual Studio 2010\Projects\WebCrawler\WebCrawler\obj\x86\Release\WebCrawler.pdb

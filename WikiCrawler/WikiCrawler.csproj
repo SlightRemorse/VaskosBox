@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{6694607C-4393-4C9D-8478-A1FF9323D33A}</ProjectGuid>
+    <ProjectGuid>{D46F26A7-D7DE-4177-8400-CD0B300889A6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WebCrawler</RootNamespace>
-    <AssemblyName>WebCrawler</AssemblyName>
+    <RootNamespace>WikiCrawler</RootNamespace>
+    <AssemblyName>WikiCrawler</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
