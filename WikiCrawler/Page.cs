@@ -15,10 +15,12 @@ namespace WikiCrawler
         public string url;
         public int depth;
         private string content;
+        public Page motherpage;
         public List<Link> links = new List<Link>();
 
-        public Page(string input, int pagedepth)
+        public Page(string input, int pagedepth, Page prev)
         {
+            motherpage = prev;
             url = input;
             depth = pagedepth;
             try

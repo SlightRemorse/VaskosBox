@@ -59,7 +59,8 @@
             this.outputbox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
                         | System.Windows.Forms.AnchorStyles.Left)
                         | System.Windows.Forms.AnchorStyles.Right)));
-            this.outputbox.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.outputbox.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.outputbox.ForeColor = System.Drawing.SystemColors.ControlText;
             this.outputbox.Location = new System.Drawing.Point(13, 69);
             this.outputbox.Multiline = true;
             this.outputbox.Name = "outputbox";

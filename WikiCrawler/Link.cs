@@ -9,6 +9,8 @@ namespace WikiCrawler
     {
         public string url;
 
-        public Link(string input) { url = input; }
+        public Link(string input) { 
+            url = input;
+        }
     }
 }

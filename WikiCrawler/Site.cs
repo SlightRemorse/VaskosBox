@@ -34,7 +34,7 @@ namespace WikiCrawler
 
         private void lurk()
         {
-            addpage(url, 0);
+            addpage(url, 0, null);
             for (int stagec = 0; stagec < pages.Count; stagec++)
             {
                 for (int linkc = 0; linkc < pages[stagec].links.Count; linkc++)
@@ -44,12 +44,20 @@ namespace WikiCrawler
                     {
                         if (pages[stagec].depth < maxpages)
                         {
-                            addpage(clink, pages[stagec].depth+1);
+                            addpage(clink, pages[stagec].depth+1, pages[stagec]);
                             for (int lc = 0; lc < pages[pages.Count-1].links.Count; lc++)
                             {
                                 if (pages[pages.Count - 1].links[lc].url.Insert(0, domain) == url)
                                 {
                                     MessageBox.Show("Match found at depth[" + pages[pages.Count - 1].depth + "]\r\nPage:" + pages[pages.Count - 1].url);
+                                    string display = "Depth[" + pages[pages.Count - 1].depth + "] " + pages[pages.Count - 1].url;
+                                    Page currpage = pages[pages.Count - 1].motherpage;
+                                    while (currpage!=null)
+                                    {
+                                        display += "\r\nDepth[" + currpage.depth + "] " + currpage.url;
+                                        currpage = currpage.motherpage;
+                                    }
+                                    MessageBox.Show(display);
                                     return;
                                 }
                             }
@@ -60,7 +68,7 @@ namespace WikiCrawler
             }
         }
 
-        public void addpage(string input, int pagedepth)
+        public void addpage(string input, int pagedepth, Page previous)
         {
             if (input == "==Error occured==") return;
             if ((input.IndexOf("http://") == -1) && (input.IndexOf("https://") == -1))
@@ -68,7 +76,7 @@ namespace WikiCrawler
                 if (input[0] != '/') input=input.Insert(0, "/");
                 input=input.Insert(0, domain);
             }
-            pages.Add(new Page(input, pagedepth));
+            pages.Add(new Page(input, pagedepth, previous));
         }
 
     }
